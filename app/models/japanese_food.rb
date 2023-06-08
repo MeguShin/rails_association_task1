@@ -1,3 +1,2 @@
-class JapaneseFood < ActiveRecord::Base
-  belongs_to :food
+class JapaneseFood < Food
 end
